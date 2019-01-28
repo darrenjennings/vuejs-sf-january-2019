@@ -1,2 +1,3 @@
-# vuejs-sf-january-2019
-Open Source Your Components - slides, resources
+# Vuejs SF Meetup - Open Source Your Components
+
+[Slides](Open-Sourcing-Vue-Components.pdf)
